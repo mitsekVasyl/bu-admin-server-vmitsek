@@ -1,0 +1,1 @@
+![admin_server_running.png](admin_server_running.png)
